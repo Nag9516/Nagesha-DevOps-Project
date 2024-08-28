@@ -1,2 +1,2 @@
-# nagesha-devops-project
+# Nagesha-DevoOs-Project
 Intellipaat's DevOps training Assignments
